@@ -1,2 +1,0 @@
-# Morgriane
-practice python
